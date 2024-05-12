@@ -15,7 +15,10 @@
                     "foreground": "#ffffff",
                     "background": "#314163",
                     "properties": {
-                        "style": "full"
+                        "style": "full",
+                        "mapped_locations": {
+                            "~\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_resource_packs": "\udb80\udf73 dev-res",
+                            "~\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\development_behavior_packs": "\udb80\udf73 dev-beh"}
                     }
                 }, {
                     "type": "git",
