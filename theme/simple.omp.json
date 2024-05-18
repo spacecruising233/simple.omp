@@ -12,8 +12,8 @@
                     "style": "diamond",
                     "leading_diamond": "\ue0b6",
                     "trailing_diamond": "\ue0b8",
-                    "foreground": "#ffffff",
-                    "background": "#314163",
+                    "foreground": "black",
+                    "background": "blue",
                     "properties": {
                         "style": "full",
                         "mapped_locations": {
@@ -25,8 +25,8 @@
                     "style": "diamond",
                     "leading_diamond": "\ue0be",
                     "trailing_diamond": "\ue0b8",
-                    "foreground": "#1a1b26",
-                    "background": "#9ece6a",
+                    "foreground": "black",
+                    "background": "green",
                     "template": " {{.RepoName}} \ue0a0 {{.BranchStatus}} ",
                     "properties": {
                         "fetch_status": true
@@ -34,7 +34,7 @@
                 }, {
                     "type": "text",
                     "style": "plain",
-                    "foreground": "#ffffff",
+                    "foreground": "lightWhite",
                     "template": "\ue0be\ue0b8"
                 }
             ]
@@ -45,7 +45,7 @@
                 {
                     "type": "time",
                     "style": "plain",
-                    "foreground": "#e0af68"
+                    "foreground": "yellow"
                 }
             ]
         }
